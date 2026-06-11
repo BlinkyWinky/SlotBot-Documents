@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SlotBot Terms of Service</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1, h2 {
+    color: #333;
+}
+</style>
+</head>
+<body>
+
+<h1>SlotBot Terms of Service</h1>
+
+<p><strong>Last Updated:</strong> June 11, 2026</p>
+
+<p>
+By using SlotBot ("the Bot"), you agree to these Terms of Service.
+If you do not agree with these terms, you should discontinue use of the Bot.
+</p>
+
+<h2>Use of the Bot</h2>
+
+<p>
+SlotBot provides entertainment, virtual economy, and game-related features through Discord.
+The Bot is provided on an "as-is" basis without warranties of any kind.
+</p>
+
+<h2>Virtual Currency and Items</h2>
+
+<p>
+All currency, balances, points, items, rewards, and other virtual assets provided by SlotBot are fictional and have no real-world monetary value.
+They cannot be redeemed, exchanged, sold, or converted into real money, cryptocurrency, gift cards, or any other item of value.
+</p>
+
+<h2>User Conduct</h2>
+
+<p>Users agree not to:</p>
+
+<ul>
+    <li>Exploit bugs or unintended mechanics.</li>
+    <li>Use automation, self-bots, or unauthorized scripts.</li>
+    <li>Attempt to disrupt or damage the Bot's operation.</li>
+    <li>Abuse, harass, or interfere with other users through the Bot.</li>
+</ul>
+
+<h2>Enforcement</h2>
+
+<p>
+The Bot owner reserves the right to reset balances, remove virtual assets, restrict access, or remove data from users who violate these Terms.
+</p>
+
+<h2>Availability</h2>
+
+<p>
+The Bot may be modified, suspended, discontinued, or updated at any time without prior notice.
+Availability and uptime are not guaranteed.
+</p>
+
+<h2>Limitation of Liability</h2>
+
+<p>
+To the fullest extent permitted by law, the Bot owner shall not be liable for any damages, losses, or interruptions arising from the use of SlotBot.
+</p>
+
+<h2>Changes to These Terms</h2>
+
+<p>
+These Terms may be updated from time to time.
+Continued use of the Bot after changes are published constitutes acceptance of the updated Terms.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+Questions regarding these Terms may be directed to the Bot owner through Discord.
+</p>
+
+</body>
+</html>
